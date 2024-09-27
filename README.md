@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [shopping list webapp](https://github.com/Bitii/shoppinglist-project)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bitii](https://github.com/Bitii)
+- 👨‍💻 All of my projects are available at [https://github.com/Bitii](https://github.com/Bitii?tab=repositories)
 
 - 📫 How to reach me **tari.tibor70@gmail.com**
 
