@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tibor Tari</h1>
 <h3 align="center">A student learning software development at University of Szeged.</h3>
 
-- 🔭 I’m currently working on a [shopping list webapp](https://github.com/Bitii/shopping-list-project)
+- 🔭 I’m currently working on a :
+    [shopping list webapp](https://github.com/Bitii/shopping-list-project)
+    [Movie reviewer webapp](https://github.com/Ferref/rendszerfejlesztes-projekt)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bitii](https://github.com/Bitii?tab=repositories)
 
