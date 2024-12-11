@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a :<br>
             - [shopping list webapp](https://github.com/Bitii/shopping-list-project)<br>
-            - [Movie reviewer webapp](https://github.com/Ferref/rendszerfejlesztes-projekt)
+            - [Movie reviewer webapp](https://github.com/Bitii/rendszerfejlesztes_e)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bitii](https://github.com/Bitii?tab=repositories)
 
